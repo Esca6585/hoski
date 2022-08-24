@@ -1,4 +1,4 @@
-<template>
+    <template>
   <footer class="footer">
     <div class="footer__wrapper">
       <div class="footer__container">
@@ -40,7 +40,7 @@
 
           </div>
           <ul class="contnet__link">
-
+            <h5 class="sitemap">Navbar:</h5>
 
             <li class="content__list">Blog</li>
             <li class="content__list">Jobs</li>
@@ -54,10 +54,15 @@
 </template>
 
 <style>
+  * {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
   .footer__wrapper {
     background-color: #3eb7d3;
-    max-width: 2400px;
     margin: 0 auto;
+    max-width: 1921px;
+    padding: 10px 30px;
   }
 
   .footer__social {
@@ -71,7 +76,6 @@
     color: white;
     display: flex;
     list-style: none;
-
   }
 
   .footer__brand {
@@ -96,11 +100,15 @@
     color: white;
     font-size: 20px;
     font-weight: bold;
+    padding-top: 100px;
   }
 
   .footer__container {
     display: flex;
     justify-content: space-between;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 40px 0;
   }
 
   .footer__address {

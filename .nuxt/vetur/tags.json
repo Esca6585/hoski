@@ -1,0 +1,32 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Gallery": {
+    "description": "Auto imported from components/Gallery.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Hoskines": {
+    "description": "Auto imported from components/Hoskines.vue"
+  },
+  "Main": {
+    "description": "Auto imported from components/Main.vue"
+  },
+  "Middle": {
+    "description": "Auto imported from components/Middle.vue"
+  },
+  "Panel": {
+    "description": "Auto imported from components/Panel.vue"
+  },
+  "Scale": {
+    "description": "Auto imported from components/Scale.vue"
+  },
+  "Welcome": {
+    "description": "Auto imported from components/Welcome.vue"
+  },
+  "Work": {
+    "description": "Auto imported from components/Work.vue"
+  }
+}

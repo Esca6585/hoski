@@ -22,6 +22,7 @@
 
   .el-header {
     width: 100%;
+    padding: 0;
     margin: 0 auto;
     position: fixed;
     background-image: url('../public/section-background-image.png');
@@ -31,6 +32,10 @@
     background-image: url('../public/Hoski_web_home_background.jpg');
     background-repeat:no-repeat;
     background-size:cover;
+  }
+
+  .el-main {
+    padding: 0;
   }
 
   @media (max-width:991px) {
