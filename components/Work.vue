@@ -10,24 +10,24 @@
           </h1>
         </div>
         <div class="work__video">
-          <video loop autoplay>
+          <video loop>
             <source src="@/public/Louis Vuitton Gif.mp4" type="video/mp4">
           </video>
         </div>
       </div>
       <div class="work__container__flex">
         <div class="work__box">
-          <video controls autoplay>
+          <video controls>
             <source src="@/public/02-6 Additional videos/Gothrider.mp4" type="video/mp4">
           </video>
         </div>
         <div class="work__box">
-          <video controls autoplay>
+          <video controls>
             <source src="@/public/02-6 Additional videos/Friendbuy.mp4" type="video/mp4">
           </video>
         </div>
         <div class="work__box">
-          <video controls autoplay>
+          <video controls>
             <source src="@/public/02-6 Additional videos/Xpunks_whatisanNFT_1.mp4" type="video/mp4">
           </video>
         </div>
@@ -35,17 +35,17 @@
       </div>
       <div class="work__container__flex">
         <div class="work__box">
-          <video controls autoplay>
+          <video controls>
             <source src="@/public/02-6 Additional videos/Apricoat.MP4" type="video/mp4">
           </video>
         </div>
         <div class="work__box">
-          <video controls autoplay>
+          <video controls>
             <source src="@/public/02-6 Additional videos/Radioshack.mp4" type="video/mp4">
           </video>
         </div>
         <div class="work__box">
-          <video controls autoplay>
+          <video controls>
             <source src="@/public/02-6 Additional videos/Bopied.mp4" type="video/mp4">
           </video>
         </div>
